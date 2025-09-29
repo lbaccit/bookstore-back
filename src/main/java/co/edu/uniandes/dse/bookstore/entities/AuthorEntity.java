@@ -66,3 +66,4 @@ public class AuthorEntity extends BaseEntity {
 	private String description;
 	private String image;
 }
+
